@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Altium related Files
+History/
+Schematic/__Previews/
+AirPurity.PrjPcbStructure
+__Previews/
+Constraints.xml
