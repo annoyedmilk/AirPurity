@@ -1,6 +1,6 @@
 # AirPurity: Sleek Indoor Air Quality Companion
 
-Welcome to my repository for AirPurity, an innovative, open-source indoor air quality monitor I designed to enhance environmental awareness in personal spaces. This project harnesses the ESP32C3 microcontroller alongside the advanced Bosch BME688 sensor, providing real-time data on air quality, temperature, humidity, and atmospheric pressure, all in a compact and user-friendly design.
+Welcome to my repository for AirPurity, an innovative, open-source indoor air quality monitor I designed to enhance environmental awareness in personal spaces. This project harnesses the ESP32C3 microcontroller alongside the advanced Bosch BME680 sensor, providing real-time data on air quality, temperature, humidity, and atmospheric pressure, all in a compact and user-friendly design.
 
 My goal with AirPurity is to empower individuals like you and me to understand and improve the air quality in our living and working environments. By being aware of the air we breathe, we can take meaningful steps toward healthier lifestyles.
 
