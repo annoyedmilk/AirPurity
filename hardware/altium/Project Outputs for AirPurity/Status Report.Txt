@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [AirPurity.PcbDoc]
+   Generated File[AirPurity.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 00:52:17 On 23/01/2024

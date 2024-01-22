@@ -102,7 +102,32 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for AirPurity\ExportSTEP\AirPurity.step
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for AirPurity\BOM\Bill of Materials-AirPurity.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for AirPurity\Move Component(s) Origin To Grid - AirPurity.html
 DItemRevisionGUID=
 
