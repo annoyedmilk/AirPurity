@@ -57,3 +57,4 @@ Schematic/__Previews/
 AirPurity.PrjPcbStructure
 __Previews/
 Constraints.xml
+*.LOG
