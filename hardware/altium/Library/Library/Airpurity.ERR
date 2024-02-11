@@ -1,0 +1,24 @@
+Altium Designer System: Library Component Rule Check
+PCB File : Airpurity
+Date     : 06/02/2024
+Time     : 00:10:11
+
+
+Name                Warnings
+------------------------------------------------------------------
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(-1.4mm,0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(-0.7mm,0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(-0.7mm,0mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(-1.4mm,-0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(-0.7mm,-0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(-0.7mm,-1.4mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(0mm,-0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(0mm,0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(0.7mm,1.4mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(1.4mm,0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(0.7mm,0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(0.7mm,0mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(0.7mm,-0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(1.4mm,-0.7mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+QFN50P500X500X90-33N     Duplicate Pad Name On Pads Pad Free-(0.7mm,-1.4mm) on Multi-Layer And Pad Free-(-0.7mm,1.4mm) on Multi-Layer
+
