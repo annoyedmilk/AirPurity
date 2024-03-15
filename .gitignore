@@ -58,3 +58,4 @@ AirPurity.PrjPcbStructure
 __Previews/
 Constraints.xml
 *.LOG
+.DS_Store
