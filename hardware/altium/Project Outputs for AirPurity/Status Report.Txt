@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 00:20:49 On 15/03/2024
-
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [AirPurity.PrjPcb]
-   Generated File[Bill of Materials-AirPurity.xlsx]
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [AirPurity.PcbDoc]
+   Generated File[AirPurity.step]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 00:20:50 On 15/03/2024
+Finished Output Generation At 19:22:09 On 28/04/2024
