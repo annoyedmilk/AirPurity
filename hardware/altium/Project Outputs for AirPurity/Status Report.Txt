@@ -1,10 +1,13 @@
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [AirPurity.PcbDoc]
-   Generated File[AirPurity.step]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [AirPurity.PcbDoc]
+   Generated File[AirPurity-RoundHoles.TXT]
+   Generated File[AirPurity-SlotHoles.TXT]
+   Generated File[AirPurity.LDP]
+   Generated File[AirPurity.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 19:22:09 On 28/04/2024
+Finished Output Generation At 10:58:16 PM On 4/30/2024
