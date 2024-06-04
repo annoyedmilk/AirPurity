@@ -1,14 +1,13 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 00:54:08 On 02.06.2024
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [AirPurity.PcbDoc]
+   Generated File[AirPurity-RoundHoles.TXT]
+   Generated File[AirPurity-SlotHoles.TXT]
+   Generated File[AirPurity.LDP]
+   Generated File[AirPurity.DRR]
 
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [AirPurity.PcbDoc]
-   Generated File[AirPurity.step]
 
-
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 00:54:59 On 02.06.2024
+Finished Output Generation At 10:58:16 PM On 4/30/2024

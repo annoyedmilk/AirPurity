@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Andon_Projekt\Documents\AirPurity\hardware\altium\AirPurity.PcbDoc
+DRC Rules Export File for PCB: E:\Altium\Raspbery\angrypumpkin\AirPurityFinal\AirPurity.PcbDoc
 RuleKind=Width|RuleName=Width_50Ohm|Scope=Board|Minimum=10.66
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
